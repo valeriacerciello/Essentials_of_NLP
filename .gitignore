@@ -1,5 +1,5 @@
 .DS_Store
 data/.DS_Store
-venv/
-.gitignore
-.gitattributes
+.DS_Store
+data/.DS_Store
+venv
